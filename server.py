@@ -2,7 +2,7 @@ import socket
 import threading
 
 
-HOST = "192.168.100.193"
+HOST = "192.168.1.5"
 host = socket.gethostname()
 PORT = 9010
 clients = []
